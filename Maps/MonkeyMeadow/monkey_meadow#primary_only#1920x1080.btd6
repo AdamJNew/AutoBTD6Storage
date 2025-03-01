@@ -1,0 +1,27 @@
+place quincy hero0 at 636, 547
+place dart dart0 at 627, 400
+upgrade dart0 path 2
+upgrade dart0 path 2
+place boomerang boomerang0 at 490, 515
+upgrade boomerang0 path 2
+upgrade boomerang0 path 2
+upgrade boomerang0 path 1
+upgrade boomerang0 path 1
+upgrade dart0 path 1
+upgrade dart0 path 1
+upgrade dart0 path 2
+upgrade boomerang0 path 1
+place bomb bomb0 at 483, 379
+upgrade bomb0 path 1
+upgrade bomb0 path 0
+upgrade bomb0 path 1
+upgrade bomb0 path 0
+upgrade bomb0 path 1
+place glue glue0 at 284, 393
+upgrade glue0 path 2
+upgrade glue0 path 1
+upgrade glue0 path 2
+upgrade glue0 path 1
+upgrade glue0 path 2
+upgrade dart0 path 2
+upgrade bomb0 path 1

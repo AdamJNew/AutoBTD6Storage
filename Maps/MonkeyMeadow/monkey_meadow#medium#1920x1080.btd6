@@ -1,0 +1,44 @@
+place quincy hero0 at 627, 524
+place dart dart0 at 638, 397
+upgrade dart0 path 2
+upgrade dart0 path 2
+place boomerang boomerang0 at 489, 385
+upgrade boomerang0 path 2
+upgrade boomerang0 path 2
+upgrade dart0 path 1
+upgrade dart0 path 1
+upgrade dart0 path 2
+upgrade boomerang0 path 1
+upgrade boomerang0 path 1
+place sniper sniper0 at 1398, 198
+retarget sniper0
+retarget sniper0
+retarget sniper0
+upgrade sniper0 path 0
+upgrade sniper0 path 1
+upgrade boomerang0 path 1
+upgrade dart0 path 2
+upgrade sniper0 path 0
+upgrade sniper0 path 0
+place sniper sniper1 at 1474, 304
+upgrade sniper1 path 2
+upgrade sniper1 path 1
+upgrade sniper1 path 2
+upgrade sniper1 path 1
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+place ace ace0 at 1097, 83
+upgrade ace0 path 2
+upgrade ace0 path 2
+upgrade ace0 path 0
+upgrade ace0 path 0
+upgrade ace0 path 2
+place heli heli0 at 1138, 205
+upgrade heli0 path 0
+upgrade heli0 path 0
+upgrade heli0 path 2
+upgrade heli0 path 2
+upgrade heli0 path 2
+upgrade sniper0 path 0
+upgrade sniper0 path 1
+upgrade sniper1 path 2
